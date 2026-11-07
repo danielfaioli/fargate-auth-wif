@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+taskdef.json
+
+# Local environment values (see .env.example)
+.env
+# Scratch policy/task files with environment-specific IDs
+*.json
